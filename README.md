@@ -63,7 +63,4 @@ The dataset used in this project is taken from Kaggle:
 
 ---
 
-## 🚀 How to Run the Project
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/salary-prediction-ml.git
+
